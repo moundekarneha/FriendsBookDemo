@@ -3,7 +3,7 @@ Friends Book Project
 
 Project Description-
 
-Created generalised view of Friends Book software. Where you can regester yourself with required information for registration. Then lets go for login.
+Created generalised view of Friends Book software. Where you can register yourself with required information for registration. Then lets go for login.
 My interesting part is adding friends information. You can also add your friends information and get their information whenever you want. 
 Here admin is able to see all users friends information. 
 
