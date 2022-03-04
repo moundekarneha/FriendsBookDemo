@@ -20,5 +20,5 @@ Start Login- After registered yourself. For admin username-Admin and Password- a
 Hi everyone, I am a software engineer working in a company from last few months. 
 I am inclined to learn new technologies and programming languages. 
 Currently started learning .NET framework. As a part of my learning skills I have posted few projects. 
-Here I have posted ATM mini project. I you are egar to learn then please go and check.
+Here I have posted ATM mini project. If you are egar to learn then please go and check.
 Thanks for visiting!!
