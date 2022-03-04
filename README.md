@@ -7,6 +7,8 @@ Created generalised view of Friends Book software. Where you can register yourse
 My interesting part is adding friends information. You can also add your friends information and get their information whenever you want. 
 Here admin is able to see all users friends information. 
 
+NOTE- Install the apllication given in publish folder and run exe file to use.
+
 Technological Stack-
 
 C# (Windows Form)language, .NET framework, SQL database.
